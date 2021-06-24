@@ -26,7 +26,7 @@ Load as Arduino IDE Sketch
 
 Inner folder: M5PaperTouchArea
 
-& Open: https://github.com/RAWSEQ/M5PaperTouchArea/blob/e09a669cd22b4d4fceaad831f583016b3fe6400b/M5PaperTouchArea/M5PaperTouchArea.ino
+& Open: [M5PaperTouchArea/M5PaperTouchArea.ino](https://github.com/RAWSEQ/M5PaperTouchArea/blob/master/M5PaperTouchArea/M5PaperTouchArea.ino)
 
 ## License
 
