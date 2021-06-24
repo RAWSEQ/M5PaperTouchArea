@@ -20,6 +20,14 @@ Suitable for making a simple remote control.
 - 日本語フォント（JIS第一水準）対応しています。
 - 縦横対応しています。
 
+## Install & Example
+
+Load as Arduino IDE Sketch
+
+Inner folder: M5PaperTouchArea
+
+& Open: [M5PaperTouchArea/M5PaperTouchArea.ino](https://github.com/RAWSEQ/M5PaperTouchArea/blob/master/M5PaperTouchArea/M5PaperTouchArea.ino)
+
 ## License
 
 MIT
